@@ -1,0 +1,7 @@
+model\Mouvement.class
+model\Role.class
+com\mycompany\madbet7_java\MyResource.class
+com\mycompany\madbet7_java\heroku\Main.class
+model\Compte.class
+model\Pari.class
+model\User.class
